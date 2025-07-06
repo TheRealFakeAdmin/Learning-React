@@ -1,8 +1,6 @@
 body {
-
-  /* src: https://dev.to/madsstoumann/dark-mode-in-3-lines-of-css-and-other-adventures-1ljj */
-  background-color: color-mix(in srgb, Canvas, CanvasText 5%);
-  color: color-mix(in srgb, CanvasText, Canvas 15%);
-  color-scheme: light dark;
-
+    /* src: https://dev.to/madsstoumann/dark-mode-in-3-lines-of-css-and-other-adventures-1ljj */
+    background-color: color-mix(in srgb, Canvas, CanvasText 5%);
+    color: color-mix(in srgb, CanvasText, Canvas 15%);
+    color-scheme: light dark;
 }

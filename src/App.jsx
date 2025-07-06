@@ -1,13 +1,13 @@
 import "./App.css";
 
 function App() {
-  const name = "World";
+    const name = "World";
 
-  return (
-    <>
-      <h1>Hello, {name}!</h1>
-    </>
-  );
+    return (
+        <>
+            <h1>Hello, {name}!</h1>
+        </>
+    );
 }
 
 export default App;
