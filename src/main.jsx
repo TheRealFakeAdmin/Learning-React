@@ -3,9 +3,9 @@ import { createRoot } from "react-dom/client";
 
 import "./style.scss";
 
-import Header from "./components/header/Header.jsx"
+import Header from "./components/header/Header.jsx";
 import App from "./App.jsx";
-import Footer from "./components/footer/Footer.jsx"
+import Footer from "./components/footer/Footer.jsx";
 
 createRoot(document.getElementById("root")).render(
     <StrictMode>
